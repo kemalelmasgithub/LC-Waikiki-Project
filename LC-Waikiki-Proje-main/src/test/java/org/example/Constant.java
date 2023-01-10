@@ -5,7 +5,7 @@ public class Constant {
     public static String COUNT_PROS = "//*[@class='item-quantity-input ignored']";
     public static String TITLE = "LC Waikiki | İlk Alışverişte Kargo Bedava! - LC Waikiki";
     public static String U_MAIL = "kemalelmas03@hotmail.com";
-    public static String U_PSW = "1a2b3c4d5e";
+    public static String U_PSW = "Gizli1$ey";
     public static String SEARCHING_PRO = "Pantolon";
     public static String FIRST_LINK = "https://www.lcwaikiki.com/tr-TR/TR";
     public static String LOGIN_BUTTON = "dropdown-label";
